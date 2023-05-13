@@ -6,7 +6,8 @@ const person = {
 }
 
 // for in loop 
-// Object.keys 
+// Object.keys(person) // [name,age,"person hobbies"]
+// Object.values(person) // ["harshit", 22, ["guitar,"sleeping"...]] 
 
 // for(let key in person){
 //     // console.log(`${key} : ${person[key]}`);

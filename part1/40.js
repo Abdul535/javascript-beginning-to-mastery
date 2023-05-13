@@ -6,6 +6,9 @@
 // const newArray = [..."123456789"];
 // console.log(newArray);
 
+// const newArray = [...["apple","mango"]];
+// console.log(newArray); //[apple, mango]
+
 // spread operator in objects
 const obj1 = {
   key1: "value1",
@@ -18,6 +21,19 @@ const obj2 = {
 };
 
 // const newObject = { ...obj2, ...obj1, key69: "value69" };
+
+newObject = {
+  key1: "value1",
+  key3: "value3",
+  key4: "value4",
+  key2: "value2",
+  key69: "value69"
+}
+
+
 // const newObject = { ...["item1", "item2"] };
 // const newObject = { ..."abcdefghijklmnopqrstuvwxyz" };
 // console.log(newObject);
+
+// can we convert array to object? //Yes
+// can we convert object to array? //No

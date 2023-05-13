@@ -9,8 +9,10 @@ let firstName = "harshitdfjakldsfdf";
 // length of string 
 // firstName.length 
 
-console.log(firstName.length);
+console.log(firstName.length); 
 
-console.log(firstName[firstName.length-2]);
+console.log(firstName[firstName.length-1]);  //f
+
+console.log(firstName[firstName.length-2]);  //d
 
 // last Index : length - 1 

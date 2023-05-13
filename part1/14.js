@@ -24,15 +24,19 @@
 // null 
 // undefined
 // 0
+// NaN
 
 // truthy 
 // "abc"
 // 1, -1
 
-// let firstName= 0;
+// let firstName= null;
 
 // if(firstName){
 //     console.log(firstName);
 // }else{
 //     console.log("firstName is kinda empty");
 // }
+
+// if(true){}
+// if(false){} X

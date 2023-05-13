@@ -7,7 +7,7 @@
 // 20 too high 
 
 let winningNumber = 19;
-let userGuess = +prompt("Guess a number");
+let userGuess = +prompt("Guess a number"); // 15
 
 if(userGuess === winningNumber){
     console.log("Your guess is right!!");

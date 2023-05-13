@@ -9,7 +9,7 @@
 // console.log("value is num2 is", num2);
 
 
-// reference types 
+// reference types (shallow copy)
 // array 
 let array1 = ["item1", "item2"];
 let array2 = array1;

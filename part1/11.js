@@ -19,3 +19,11 @@
 // // console.log(myNumber);
 // // console.log(Number.MAX_SAFE_INTEGER);
 // console.log(myNumber+ sameMyNumber);
+
+let arr = []
+let arr = new Array()
+
+let no = 1234n
+let no = BigInt(56)
+
+// op1 + op2

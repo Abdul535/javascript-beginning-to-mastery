@@ -15,10 +15,10 @@ let obj = {}; // object literal
 // console.log(fruits);
 // fruits[1] = "banana";
 // console.log(fruits);
-console.log(typeof fruits);
+console.log(typeof fruits); //object
 console.log(typeof obj);
-console.log(Array.isArray(fruits));
-console.log(Array.isArray(obj));
+console.log(Array.isArray(fruits)); //T
+console.log(Array.isArray(obj));  //F
 
 
 // array indexing 

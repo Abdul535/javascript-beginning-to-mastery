@@ -18,6 +18,8 @@ console.log(value1);
 // you cannot use spaces 
 // var first_name = "harshit"; // snake case writing 
 // var firstName = "harshit"; // camel case writing 
+// var first-name = "harshit"; // kebab case writing 
+
 // first name (invalid)
 
 // convention 

@@ -1,4 +1,4 @@
-// objects inside array 
+// objects inside array //Array of Objects
 // very useful in real world applications
 
 const users = [
@@ -7,5 +7,6 @@ const users = [
     {userId: 3,firstName: 'nitish', gender: 'male'},
 ]
 for(let user of users){
-    console.log(user.firstName);
+    console.log(user.userId);
 }
+users[2].firstName

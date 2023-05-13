@@ -9,8 +9,9 @@
 // console.log(num1<num2);
 
 // == vs === 
-// console.log(num1 === num2);
+// console.log(num1 == num2); //T
+// console.log(num1 === num2); //F
 
 // != vs !==
-
-// console.log(num1 !== num2);
+// console.log(num1 != num2); //F
+// console.log(num1 !== num2); //T

@@ -28,3 +28,12 @@
 // let age = "18";
 // age = Number(age);
 // console.log(typeof age);
+
+
+//convert number to string. 
+//1. you just concatenate with string
+//2. String(value)
+
+//convert string to number. 
+//1. you will add unary operator (+)
+//2. Number(value)
